@@ -1,4 +1,4 @@
-The cyber extortion story has changed: attackers increasingly do not need to lock your files when stealing your data, weaponizing disclosure pressure, compliance deadlines, and negotiation speed instead of pure operational disruption. Here is a Substack-ready blog written in a technically professional but more intriguing narrative style, based on Unit 42’s analysis and supporting reporting. 
+The cyber extortion story has changed: attackers increasingly do not need to lock your files when stealing your data, weaponizing disclosure pressure, compliance deadlines, and negotiation speed instead of pure operational disruption.
 
 
 # Out of the Crypt: When Extortion Stops Encrypting and Starts Accelerating
